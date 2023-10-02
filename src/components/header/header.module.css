@@ -1,0 +1,26 @@
+.header {
+    height: 140px;
+    background-color: #040D17;
+}
+
+.header ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.header ul a {
+    display: flex;
+    width: 125px;
+    height: 20px;
+    padding-right: 0px;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+    color: #ffffff;
+    text-decoration: none;
+}
+.header ul a:hover{
+    color: #00EEBD;
+}

@@ -1,0 +1,16 @@
+.title_container h1 {
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.title_container h1 span:nth-child(1) {
+    color: #00EEBD;
+}
+
+.title_container h1 span:last-child {
+    font-size: 64px;
+
+}
